@@ -1,7 +1,7 @@
 ### Hello and welcome, I'm kCn 👋
 a computer enthusiast & hardware tinkerer exploring the boundaries of self-hosting, development and infrastructure.
 
----
+***
 ### 🖥️ Home Infrastructure
 
 
@@ -15,7 +15,7 @@ Managing own server, hosting containers and services.
 ![HAProxy](https://img.shields.io/badge/HAProxy-51AD4C?style=flat&logo=haproxy&logoColor=white)
 ![Garage](https://img.shields.io/badge/Garage_S3-412991?style=flat&logo=amazons3&logoColor=white)
 
----
+***
 
  Currently building, learning and experimenting with a high-availability Kubernetes cluster.
 
@@ -31,7 +31,7 @@ Managing own server, hosting containers and services.
 ![Longhorn](https://img.shields.io/badge/Longhorn-1f2937?style=flat&logo=rancher&logoColor=white&labelColor=5F224B)
 ![CloudNativePG](https://img.shields.io/badge/CloudNativePG-1f2937?style=flat&logo=postgresql&logoColor=white&labelColor=4169E1)
 
----
+***
 ### 💻 Coding primarily in:
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,spring,bash)](https://skillicons.dev)
