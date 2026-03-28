@@ -14,4 +14,4 @@ I manage my own server environment, hosting various containers and critical serv
 ---
 ### 🛠️ Technologies I use:
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,py,java,spring,bash,md,linux,docker,kubernetes,grafana,cloudflare,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,py,java,spring,bash,md,vim,linux,docker,kubernetes,grafana,cloudflare,obsidian)](https://skillicons.dev)
