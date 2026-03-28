@@ -4,12 +4,8 @@ A computer enthusiast & hardware tinkerer exploring the boundaries of self-hosti
 ---
 ### 🖥️ Home Lab Infrastructure
 
-<a href="https://status.kcn333.com/status/kcn">
-  <img src="https://status.kcn333.com/api/badge/3/status?upColor=4CAF50&downColor=f38ba8" alt="Server Status">
-</a>
-<a href="https://status.kcn333.com/status/kcn">
-  <img src="https://status.kcn333.com/api/badge/3/uptime?color=4CAF50" alt="Uptime">
-</a>
+<a href="https://status.kcn333.com/status/kcn"><img src="https://status.kcn333.com/api/badge/3/status?upColor=4CAF50&downColor=f38ba8" alt="Server Status"></a>
+<a href="https://status.kcn333.com/status/kcn"><img src="https://status.kcn333.com/api/badge/3/uptime?color=4CAF50" alt="Uptime"></a>
 
 I manage my own server environment, hosting various containers and critical services. Currently building, learning, and experimenting with a high-availability Kubernetes cluster.
 
