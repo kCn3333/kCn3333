@@ -8,7 +8,7 @@ A computer enthusiast & hardware tinkerer exploring the boundaries of self-hosti
 
 I manage my own server environment, hosting various containers and critical services. Currently building, learning, and experimenting with a high-availability Kubernetes cluster.
 
-🔗 **[Live Status Dashboard](https://status.kcn333.com/status/kcn)**  |  📖 **[Homelab Documentation](https://homelab.kcn333.com)** | 🏗️ **[GitOps Repository](https://github.com/kCn3333/k3s-homelab)**
+📊 **[Live Status Dashboard](https://status.kcn333.com/status/kcn)**  |  📖 **[Homelab Documentation](https://homelab.kcn333.com)** | 🏗️ **[GitOps Repository](https://github.com/kCn3333/k3s-homelab)**
 
 ---
 ### 🛠️ Tech stack I use:
